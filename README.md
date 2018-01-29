@@ -2,6 +2,14 @@ This setup is based on the course [Advanced React and Redux](https://www.udemy.c
 
 ---
 
+## Services
+
+- Stripe (billing)
+- Heroku (deploy)
+- mlab (mongoDB)
+- SendGrid (email provider)
+- Google Oath
+
 ## Backend
 
 - express.js
